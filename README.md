@@ -35,7 +35,7 @@ Sistema desenvolvido para monitoramento e controle do consumo de água, alinhado
 8. **Relatório Geral do Sistema** - Visão geral de todos os usuários
 9. **Sair** - Encerrar o sistema
 
-## 🛠️ Tecnologias e Conceitos
+##  Tecnologias e Conceitos
 
 ### Linguagem
 - **Python 3.8+**
