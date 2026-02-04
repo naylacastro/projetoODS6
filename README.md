@@ -17,9 +17,9 @@ Sistema desenvolvido para monitoramento e controle do consumo de água, alinhado
 
 ##  Equipe
 
-- **Desenvolvedores**: [Nomes dos membros da equipe]
-- **Disciplina**: Programação Orientada a Objetos
-- **Instituição**: [Nome da instituição]
+- **Desenvolvedores**: [Rayslane Macedo. Eloah Barros e Ana nayla castro]
+- **Disciplina**: Programação Orientada a Objetos(POO)
+- **Instituição**: [IFRN Zona norte]
 
 ##  Funcionalidades
 
