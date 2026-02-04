@@ -147,7 +147,7 @@ projetoODS6/
 └── __pycache__/      # Arquivos compilados Python
 ```
 
-## 🤖 Uso de IA Generativa
+##  Uso de IA Generativa
 
 Este projeto utilizou **GitHub Copilot** como ferramenta auxiliar para:
 
